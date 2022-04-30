@@ -1,0 +1,6 @@
+Plan Kedepan
+- Belajar HTML & CSS
+- Menerapkan HTML & CSS menjadi sebuah Tampilan Website
+- Belajar Framework
+- Belajar Javascript
+- Belajar PHP
