@@ -4,3 +4,4 @@ Plan Kedepan
 - Belajar Framework
 - Belajar Javascript
 - Belajar PHP
+- Belajar lebih banyal
